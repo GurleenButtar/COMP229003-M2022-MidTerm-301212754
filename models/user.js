@@ -37,7 +37,7 @@ let UserSchema = mongoose.Schema(
         }
     },
     {
-        collection: "user"
+        collection: "userMidterm"
     }
 );
 
